@@ -1,0 +1,14 @@
+nav {
+    background-color:white;
+    height: 50px;
+    text-align: center;
+}
+.carousel {
+    background-color:rgb(255, 255, 255);
+    height: 400px;
+    text-align:center    
+}
+.content {
+    margin:auto;
+    width: 1024px;
+}
