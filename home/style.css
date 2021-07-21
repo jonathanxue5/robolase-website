@@ -1,14 +1,7 @@
-nav {
-    background-color:white;
-    height: 50px;
-    text-align: center;
+.carousel-item {
+    height:100%;
+    width:100%;
 }
-.carousel {
-    background-color:rgb(255, 255, 255);
-    height: 400px;
-    text-align:center    
-}
-.content {
-    margin:auto;
-    width: 1024px;
+.p-5.border {
+    font-size: 1.25rem;
 }
