@@ -1,7 +1,12 @@
+
+/*
 .carousel-item {
-    height:100%;
-    width:100%;
 }
+*/
 .p-5.border {
     font-size: 1.25rem;
+}
+footer {
+    background-color: rgb(84, 110, 122);
+    height:12rem;
 }
