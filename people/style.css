@@ -1,0 +1,10 @@
+
+footer {
+    background-color: rgb(84, 110, 122);
+    height:12rem;
+}
+
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+    
+}
