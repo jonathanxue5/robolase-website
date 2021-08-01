@@ -1,0 +1,44 @@
+ a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none
+        
+    }
+    
+    a:visited {
+        color: black;
+        background-color: transparent;
+        
+    }
+    
+    a:hover {
+        color: rgb(83, 111, 122);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+
+    h1 {
+    margin-left: 90px;
+    margin-right: 90px;
+    }
+
+    p {
+    margin-right: 90px;
+    margin-left: 90px;
+   
+    }
+
+    .more{ 
+        margin-bottom: 35px;
+    }
+    
+    hr {
+    width: 90%;
+    text-align: auto;
+    margin-left: 90px
+    }
+
+    .div.c {
+    line-height: 500%
+    }
