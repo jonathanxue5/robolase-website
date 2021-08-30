@@ -13,3 +13,13 @@ footer {
 header {
     height: 55px;
 }
+.btn-button1 {
+    background-color: rgb(84, 110, 122);
+    color:rgb(235, 233, 233);
+    border: 2px solid rgb(235, 233, 233);
+}
+.btn-button2 {
+    background-color: rgb(84, 110, 122);
+    color:rgb(235, 233, 233);
+    border: 2px solid rgb(235, 233, 233);
+}
