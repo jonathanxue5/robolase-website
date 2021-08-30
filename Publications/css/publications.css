@@ -42,3 +42,7 @@ margin-left: 90px
 .div.c {
 line-height: 500%
 }
+.dropdown-menu {         
+    max-height: 200px;
+    overflow-y: auto;
+}
